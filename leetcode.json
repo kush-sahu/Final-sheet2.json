@@ -2692,14 +2692,14 @@
       "Topic:": "Dynamic Programming",
       "Problem: ": "Edit Distance",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/edit-distance/description/,",
+      "URL": "https://leetcode.com/problems/edit-distance/description/",
       "URL1": "https://youtu.be/eMnyEDYGobA?si=hUY88s5KnyYMGXo2"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Subset Sum Problem",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/partition-equal-subset-sum/description/,",
+      "URL": "https://leetcode.com/problems/partition-equal-subset-sum/description/",
       "URL1": "https://youtu.be/fWX9xDmIzRI?si=CszpOpjeKfltJCgy"
     },
     {
@@ -2713,7 +2713,7 @@
       "Topic:": "Dynamic Programming",
       "Problem: ": "Gold Mine Problem",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/path-with-maximum-gold/description/,",
+      "URL": "https://leetcode.com/problems/path-with-maximum-gold/description/",
       "URL1": "https://youtu.be/tQU4rkmPyV0?si=0OoPo51P4BE7LwEi"
     },
     {
@@ -2734,105 +2734,105 @@
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximize The Cut Segments",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/problems/cutted-segments1642/1,",
+      "URL": "https://www.geeksforgeeks.org/problems/cutted-segments1642/",
       "URL1": "https://youtu.be/O0N4xn38Ncg?si=WH4lbTDXAnW4R1U1"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Longest Common Subsequence",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/longest-common-subsequence/description/,",
+      "URL": "https://leetcode.com/problems/longest-common-subsequence/description/",
       "URL1": "https://youtu.be/y1b8pObvndA?si=4MPL0yZAajCdQfNJ"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Longest Repeated Subsequence",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/,",
+      "URL": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/",
       "URL1": "https://youtu.be/hbTaCmQGqLg?si=fy3R8zCUBKSE8Qty"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Longest Increasing Subsequence",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/longest-common-subsequence/description/,",
+      "URL": "https://leetcode.com/problems/longest-common-subsequence/description/",
       "URL1": "https://youtu.be/ZqG89Z-dKpI?si=ieoTESq9OC_J4NXQ"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Space Optimized Solution of LCS",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/space-optimized-solution-lcs/,",
+      "URL": "https://www.geeksforgeeks.org/space-optimized-solution-lcs/",
       "URL1": "https://youtu.be/Iuw2nOvYW20?si=b6iQ8y8dQtdqB4GK"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "LCS (Longest Common Subsequence) of three strings",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/longest-common-subsequence/description/,",
+      "URL": "https://leetcode.com/problems/longest-common-subsequence/description/",
       "URL1": "https://youtu.be/y1b8pObvndA?si=ADdPvZzJU1BoZbgc"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum Sum Increasing Subsequence",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/,",
+      "URL": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/",
       "URL1": "https://youtu.be/ekcwMsSIzVc?si=qFf8SFv_QGiA2R9b"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Count all subsequences having product less than K",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/subarray-product-less-than-k/description/,",
+      "URL": "https://leetcode.com/problems/subarray-product-less-than-k/description/",
       "URL1": "https://youtu.be/7rGxOMEBWKE?si=JGLjVHXzFDO18cBs"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Longest subsequence such that difference between adjacent is one",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/,",
+      "URL": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/",
       "URL1": "https://youtu.be/opjyzmiTp1I?si=qAolAuDIR78Y4dDl"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum subsequence sum such that no three are consecutive",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/,",
+      "URL": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/",
       "URL1": "https://youtu.be/-FJinY9Yb-s?si=t7MTJ5UR1kD3cLJM"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Egg Dropping Problem",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/super-egg-drop/description/,",
+      "URL": "https://leetcode.com/problems/super-egg-drop/description/",
       "URL1": "https://youtu.be/S49zeUjeUL0?si=oGM6r7fAK1CFHU2v"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum Length Chain of Pairs",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-length-of-pair-chain/description/,",
+      "URL": "https://leetcode.com/problems/maximum-length-of-pair-chain/description/",
       "URL1": "https://youtu.be/v0D3HtS8GAg?si=yAZm5nAUXpDXjjMQ"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum size square sub-matrix with all 1s",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximal-square/description/,",
+      "URL": "https://leetcode.com/problems/maximal-square/description/",
       "URL1": "https://youtu.be/nZAyRZC8tko?si=0PAbPD_wwPjMUUFH"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum sum of pairs with specific difference",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/,",
+      "URL": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/",
       "URL1": "https://youtu.be/yDZGsjc007Y?si=nd0u7wVolET1TOb2"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Min Cost PathProblem",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/,",
+      "URL": "https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/",
       "URL1": "https://youtu.be/_rgTlyky1uQ?si=U3FWdoL8W6LieHLI"
     },
     {
@@ -2846,49 +2846,49 @@
       "Topic:": "Dynamic Programming",
       "Problem: ": "Minimum number of jumps to reach end",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/jump-game-ii/description/,",
+      "URL": "https://leetcode.com/problems/jump-game-ii/description/",
       "URL1": "https://youtu.be/CqgK_qi4SKQ?si=iPcNrxmoKb3Fuia9"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Minimum cost to fill given weight in a bag",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/,",
+      "URL": "https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/",
       "URL1": "https://youtu.be/skf0qDzSJsQ?si=mbGRQM3DfSSNOwVT"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Minimum removals from array to make max –min <= K",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/,",
+      "URL": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/",
       "URL1": "https://youtu.be/C07FzNAUkLI?si=1fnHmjm1ErOuu9FK"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Longest Common Substring",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/,",
+      "URL": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/",
       "URL1": "https://youtu.be/_wP9mWNPL5w?si=b_1NVqRb0Wtfn6gS"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Count number of ways to reacha given score in a game",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/minimum-moves-to-reach-target-score/description/,",
+      "URL": "https://leetcode.com/problems/minimum-moves-to-reach-target-score/description/",
       "URL1": "https://youtu.be/LoKW5RkQ_1s?si=vr5WsFd28R28JUZf"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Count Balanced Binary Trees of Height h",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/balanced-binary-tree/description/,",
+      "URL": "https://leetcode.com/problems/balanced-binary-tree/description/",
       "URL1": "https://youtu.be/pyO2FJE7G9o?si=q31Tc7waBsg9vEJ3"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-subarray/description/,",
+      "URL": "https://leetcode.com/problems/maximum-subarray/description/",
       "URL1": "https://youtu.be/HCL4_bOd3-4?si=A3eeQN2Ql-OcsIES"
     },
     {
@@ -2902,105 +2902,105 @@
       "Topic:": "Dynamic Programming",
       "Problem: ": "Unbounded Knapsack (Repetition of items allowed)",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/,",
+      "URL": "https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/",
       "URL1": "https://youtu.be/S1nStf-TM6c?si=qjZvNtdJd076S2qB"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Word Break Problem",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/word-break/description/,",
+      "URL": "https://leetcode.com/problems/word-break/description/",
       "URL1": "https://youtu.be/XtIGGdrF67E?si=i1Y35F28Pp18HsXk"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Largest Independent Set Problem",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/problems/largest-independent-set-problem/1,",
+      "URL": "https://www.geeksforgeeks.org/problems/largest-independent-set-problem/",
       "URL1": "https://youtu.be/x3zqD1kj_T0?si=1bGtceMgj1oTtxGq"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Partition problem",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/partition-equal-subset-sum/description/,",
+      "URL": "https://leetcode.com/problems/partition-equal-subset-sum/description/",
       "URL1": "https://youtu.be/UmMh7xp07kY?si=oU5ZaXhSPcuRcZAr"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Longest Palindromic Subsequence",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/longest-palindromic-subsequence/description/,",
+      "URL": "https://leetcode.com/problems/longest-palindromic-subsequence/description/",
       "URL1": "https://youtu.be/U095bJJtW3w?si=E96dcnhzDlkYm2tY"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Count All Palindromic Subsequence in a given String",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/count-different-palindromic-subsequences/description/,",
+      "URL": "https://leetcode.com/problems/count-different-palindromic-subsequences/description/",
       "URL1": "https://youtu.be/vlbA8oUxSV0?si=rOQx_KjVERiwjW_J"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Longest Palindromic Substring",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/longest-palindromic-substring/description/,",
+      "URL": "https://leetcode.com/problems/longest-palindromic-substring/description/",
       "URL1": "https://youtu.be/pVs1RjhmHwU?si=09-a-Nm_hcz5JFUA"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Longest alternating subsequence",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/,",
+      "URL": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/",
       "URL1": "https://youtu.be/UogHvfQ3e18?si=k121Zp_D5UGEbUR0"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Weighted Job Scheduling",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/,",
+      "URL": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/",
       "URL1": "https://youtu.be/V59YYFPN5KA?si=oAIASLZa1ZlVjFv6"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Coin game winner where every player has three choices",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/predict-the-winner/description/,",
+      "URL": "https://leetcode.com/problems/predict-the-winner/description/",
       "URL1": "https://youtu.be/yHM16Ln7eGM?si=s6ABK8eq5U8h01Dc"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/,",
+      "URL": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
       "URL1": "https://youtu.be/NW-BLDQHFXk?si=5YXfbG-7rhk-snwM"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum profit by buying and selling a share at most twice [ IMP ]",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/,",
+      "URL": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
       "URL1": "https://youtu.be/excAOvwF_Wk?si=ceIGqFXjl6zPcDHh"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Optimal Strategy for a Game",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/predict-the-winner/description/,",
+      "URL": "https://leetcode.com/problems/predict-the-winner/description/",
       "URL1": "https://youtu.be/VwjKZQCaTC8?si=SbhiJNmcyP7uQQJh"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Optimal Binary Search Tree",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/unique-binary-search-trees/description/,",
+      "URL": "https://leetcode.com/problems/unique-binary-search-trees/description/",
       "URL1": "https://youtu.be/HnslzEs8dbY?si=y9ZUi27ICXcrWV5p"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Palindrome PartitioningProblem",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/palindrome-partitioning/description/,",
+      "URL": "https://leetcode.com/problems/palindrome-partitioning/description/",
       "URL1": "https://youtu.be/Oi6a4O00n4U?si=ocAGV5Vq3M4sUAtX"
     },
     {
@@ -3021,77 +3021,77 @@
       "Topic:": "Dynamic Programming",
       "Problem: ": "Boolean Parenthesization Problem",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/parsing-a-boolean-expression/description/,",
+      "URL": "https://leetcode.com/problems/parsing-a-boolean-expression/description/",
       "URL1": "https://youtu.be/JbRsM2X2_pg?si=J-tDYrp0OIlGbgel"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Largest rectangular sub-matrix whose sum is 0",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/,",
+      "URL": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/",
       "URL1": "https://youtu.be/mKluyW4YFvs?si=d_zhjUBiqEU3UjNu"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/,",
+      "URL": "https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/",
       "URL1": "https://youtu.be/ynkRKGFkX-A?si=GI-pRgYdhM482MME"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum sum rectangle in a 2D matrix",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/,",
+      "URL": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/",
       "URL1": "https://youtu.be/mKluyW4YFvs?si=_-0uhQ7_GVuW08E5"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum profit by buying and selling a share at most k times",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/,",
+      "URL": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/",
       "URL1": "https://youtu.be/IV1dHbk5CDc?si=7VRraBbf6IR61V1D"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Find if a string is interleaved of two other strings",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/interleaving-string/description/,",
+      "URL": "https://leetcode.com/problems/interleaving-string/description/",
       "URL1": "https://youtu.be/jaQF6FSWYdE?si=G6hvIWnvN9ga6vk9"
     },
     {
       "Topic:": "Dynamic Programming",
       "Problem: ": "Maximum Length of Pair Chain",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/maximum-length-of-pair-chain/description/,",
+      "URL": "https://leetcode.com/problems/maximum-length-of-pair-chain/description/",
       "URL1": "https://youtu.be/v0D3HtS8GAg?si=0-5iLRUBRFP3PAJN"
     },
     {
       "Topic:": "Bit Manipulation",
       "Problem: ": "Count set bits in an integer",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/counting-bits/description/,",
+      "URL": "https://leetcode.com/problems/counting-bits/description/",
       "URL1": "https://youtu.be/KJnhAUkxAho?si=I4MK58-20bCwYl4C"
     },
     {
       "Topic:": "Bit Manipulation",
       "Problem: ": "Find the two non-repeating elements in an array of repeating elements",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/find-the-duplicate-number/description/,",
+      "URL": "https://leetcode.com/problems/find-the-duplicate-number/description/",
       "URL1": "https://youtu.be/pnx5JA9LNM4?si=AqqeUl4rlixLiZ2S"
     },
     {
       "Topic:": "Bit Manipulation",
       "Problem: ": "Count number of bits to be flipped to convert A to B",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/,",
+      "URL": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/",
       "URL1": "https://youtu.be/PvM39qzSh3E?si=o7z0jCXTld2HoW3X"
     },
     {
       "Topic:": "Bit Manipulation",
       "Problem: ": "Count total set bits in all numbers from 1 to n",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/counting-bits/description/,",
+      "URL": "https://leetcode.com/problems/counting-bits/description/",
       "URL1": "https://youtu.be/g6OxU-hRGtY?si=8FmL3Bs-6r-78vKT"
     },
     {
@@ -3105,21 +3105,21 @@
       "Topic:": "Bit Manipulation",
       "Problem: ": "Find position of the only set bit",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/find-position-of-the-only-set-bit/,",
+      "URL": "https://www.geeksforgeeks.org/find-position-of-the-only-set-bit/",
       "URL1": "https://youtu.be/OcHP74l-qx8?si=KTOQWDXyAykpvtSr"
     },
     {
       "Topic:": "Bit Manipulation",
       "Problem: ": "Copy set bits in a range",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/,",
+      "URL": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
       "URL1": "https://youtu.be/OcHP74l-qx8?si=KTOQWDXyAykpvtSr"
     },
     {
       "Topic:": "Bit Manipulation",
       "Problem: ": "Divide two integers without using multiplication, division and mod operator",
       "Done": "<->",
-      "URL": "https://leetcode.com/problems/divide-two-integers/description/,",
+      "URL": "https://leetcode.com/problems/divide-two-integers/description/",
       "URL1": "https://youtu.be/k9Yxy-NhSTA?si=o3Jiaq-LHO8qfuo-"
     },
     {
@@ -3133,7 +3133,7 @@
       "Topic:": "Bit Manipulation",
       "Problem: ": "Power Set",
       "Done": "<->",
-      "URL": "https://www.geeksforgeeks.org/power-set/,",
+      "URL": "https://www.geeksforgeeks.org/power-set/",
       "URL1": "https://youtu.be/3tpjp5h3M6Y?si=uSs1sNWmTOgFGjD_"
     }
   ]
