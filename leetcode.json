@@ -2605,7 +2605,7 @@
       "URL1": "https://youtu.be/cA8-mdRJuCI?si=2RxX34gx5zUJJ7zO"
     },
     {
-      "Topic:": "Trie"
+      "Topic:": "Trie",
       "Problem: ": "Construct a trie from scratch",
       "Done": "<->",
       "URL": "https://leetcode.com/problems/implement-trie-prefix-tree/description/",
